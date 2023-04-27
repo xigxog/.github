@@ -14,7 +14,7 @@ body:
     attributes:
       label: What happened?
       description: Provide us with a description of what you saw and what you were doing when you saw it.
-      value: It all started when...
+      placeholder: It all started when...
     validations:
       required: true
 
@@ -23,7 +23,7 @@ body:
     attributes:
       label: What should have happened?
       description: Tell us what you expected to see.
-      value: It should have done this...
+      placeholder: It should have done this...
     validations:
       required: true
 
@@ -33,22 +33,18 @@ body:
       label: Steps to reproduce the issue.
       description: |
         If we can reproduce it, we can fix it. If possible, provide us with the sequence of steps necessary to reproduce the issue.
-      placeholder: Tell us the steps needed to reproduce the issue
-      value: |
-        Step 1.  I did this
-        Step 2.  followed by that
-        Step 3.  followed by something else
+      placeholder: |
+        1. I did this
+        2. followed by that
+        3. followed by something else
     validations:
       required: true
 
-  - type: dropdown
+  - type: input
     id: version
     attributes:
       label: Version
       description: What version of our software are you running?
-      options:
-        - 0.1.x-alpha
-        - 0.1.y-beta
     validations:
       required: true
 
@@ -59,18 +55,11 @@ body:
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: Text
 
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Relevant screenshots
-      description: Please copy and paste any screenshots that you think will help us understand the problem better.
-      render: Text
-
   - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow XigXog's [Code of Conduct](https://example.com)
+      description: By submitting this issue, you agree to follow [XigXog's Code of Conduct](https://github.com/xigxog/.github/blob/main/CODE_OF_CONDUCT.md)
       options:
         - label: I agree to follow XigXog's Code of Conduct
           required: true

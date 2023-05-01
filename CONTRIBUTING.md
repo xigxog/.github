@@ -29,7 +29,7 @@ There are 3 types of issues:
 
 XigXog requires all external contributors to sign a Contributor License Agreement (CLA) for all contributions.  You can find the full text of the XigXog CLA [here](https://github.com/xigxog/.github/blob/main/CLA.md).
 
-This is a human-readable summary of (and not a substitute for) the full agreement. This highlights only some of key terms of the CLA. It has no legal value and you should carefully review all the terms of the actual CLA before agreeing.
+This is a human-readable summary of (and not a substitute for) the full agreement. This highlights only some of key terms of the CLA. It has no legal standing and you should carefully review all the terms of the actual CLA before agreeing.
 
 - **Grant of copyright license.**  You give XigXog permission to use your copyrighted work in commercial products.
 - **Grant of patent license.** If your contributed work uses a patent, you give XigXog a license to use that patent including within commercial products. You also agree that you have permission to grant this license.
@@ -39,7 +39,7 @@ The CLA does not change the terms of the standard open source license used by ou
 
 ### Why Require a CLA?
 
-Agreeing to a CLA explicitly states that you are entitled to provide a contribution, that you cannot withdraw permission to use your contribution at a later date, and that HashiCorp has permission to use your contribution in our commercial products.
+Agreeing to a CLA explicitly states that you are entitled to provide a contribution, that you cannot withdraw permission to use your contribution at a later date, and that XigXog has permission to use your contribution in our commercial products.
 
 This removes any ambiguities or uncertainties caused by not having a CLA and allows users and customers to confidently adopt our projects. At the same time, the CLA ensures that all contributions to our open source projects are licensed under the project's respective open source license, such as MPL2.
 

@@ -29,7 +29,7 @@ There are 3 types of issues:
 
 XigXog requires all external contributors to sign a Contributor License Agreement (CLA) for all contributions.  You can find the full text of the XigXog CLA [here](https://github.com/xigxog/.github/blob/main/CLA.md).
 
-This is a human-readable summary of (and not a substitute for) the full agreement. This highlights only some of key terms of the CLA. It has no legal standing and you should carefully review all the terms of the actual CLA before agreeing.
+This is a simple English (non-legalese) summary of (and not a substitute for) the full agreement. It highlights some of key terms of the CLA. It has no legal standing and you should carefully review all the terms of the actual CLA before agreeing.
 
 - **Grant of copyright license.**  You give XigXog permission to use your copyrighted work in commercial products.
 - **Grant of patent license.** If your contributed work uses a patent, you give XigXog a license to use that patent including within commercial products. You also agree that you have permission to grant this license.
@@ -51,5 +51,5 @@ When you open a pull request (PR) to any of our open source projects, you will b
 
 Follow the steps given by the bot to sign the CLA. This will require you to log in with GitHub (we only request public information from your account) and to fill in a few additional details such as your name and email address. We will only use this information for CLA tracking; none of your submitted information will be used for marketing purposes.
 
-You only have to sign the CLA once. Once you've signed the CLA, future contributions to any XigXog project will not require you to sign again.
+You only have to sign the CLA once. Once you've signed the CLA, you won't be asked to sign again for any future contributions you make to any XigXog project.
 
